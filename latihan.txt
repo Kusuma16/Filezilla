@@ -1,0 +1,4 @@
+This is my learning about GIT
+I Have modified my file using GIT
+Hay kusuma, Iam editing your file from another branch
+Iam a new member here, My name is Ningrat
